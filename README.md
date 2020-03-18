@@ -7,35 +7,8 @@
 - Java
 - Apache James Server
 - MySQL
-- HTML
-
-## Program Design
-
-### 주소록(완전화 유지보수)
-
-![address](./img/address_seq.jpg)
-
-![address_add](./img/address_add-seq.jpg)
-
-![address_add](./img/address_add-com.jpg)
-
-![address_del](./img/address_del-seq.jpg)
-
-![address_del](./img/address_del-com.jpg)
-
-### 사용자 관리(완전화 유지보수)
-
-![usermanage_add](./img/usermanage_adduser-seq.jpg)
-
-![usermanage_add](./img/usermanage_adduser-com.jpg)
-
-![usermanage_del](./img/usermanage_del-user-seq.jpg)
-
-![usermanage_del](./img/usermanage_del-user-com.jpg)
-
-### 비밀번호 보안강화(예방 유지보수)
-
-![password_err](./img/execution_pw-err.jpg)
+- HTML 5
+- JSP
 
 ## Running
 
@@ -44,3 +17,6 @@
 ![execution](./img/execution_addressbook.jpg)
 
 ![execution](./img/execution_pw-err.jpg)
+
+https://www.youtube.com/watch?v=f_HfVW31HlA
+
