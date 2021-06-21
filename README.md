@@ -4,19 +4,11 @@
 
 ## Program Stacks
 
+### Backend
 - Java
 - Apache James Server
 - MySQL
+### Frontend
 - HTML 5
 - JSP
-
-## Running
-
-![execution](./img/execution.jpg)
-
-![execution](./img/execution_addressbook.jpg)
-
-![execution](./img/execution_pw-err.jpg)
-
-https://www.youtube.com/watch?v=f_HfVW31HlA
 
