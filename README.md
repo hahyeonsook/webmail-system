@@ -9,7 +9,7 @@
 - Apache James Server
 - MySQL
 ### Frontend
-- HTML 5
+- HTML
 - JSP
 
 ## Program Design
